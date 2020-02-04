@@ -1,6 +1,6 @@
 # Oxygen IDE
 
-Test Automation Using open source IDE, [Oxygen]().
+Test Automation using open source IDE, [Oxygen]().
 
 This code base covers tests for:
 
